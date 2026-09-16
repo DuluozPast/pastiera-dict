@@ -9,16 +9,37 @@
     "shortDescription": "Common words • lightweight",
     "languageTag": "da-DK"
   },
+"da_extended": {
+  "name": "Danish (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "da-DK",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "de_base": {
     "name": "German (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "de-DE"
   },
+"de_extended": {
+  "name": "German (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "de-DE",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "en_base": {
     "name": "English (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "en-US"
   },
+"en_extended": {
+  "name": "English (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "en-US",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "el_base": {
     "name": "Greek (Basic)",
     "shortDescription": "Common words • lightweight",
@@ -29,11 +50,25 @@
     "shortDescription": "Common words • lightweight",
     "languageTag": "es-ES"
   },
+"es_extended": {
+  "name": "Spanish (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "es-ES",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "fr_base": {
     "name": "French (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "fr-FR"
   },
+"fr_extended": {
+  "name": "French (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "fr-FR",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "hu_base": {
     "name": "Hungarian (Basic)",
     "shortDescription": "Common words • lightweight",
@@ -44,31 +79,73 @@
     "shortDescription": "Common words • lightweight",
     "languageTag": "it-IT"
   },
+"it_extended": {
+  "name": "Italian (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "it-IT",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "nl_base": {
     "name": "Dutch (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "nl-NL"
   },
+"nl_extended": {
+  "name": "Dutch (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "nl-NL",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "no_base": {
     "name": "Norwegian (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "no-NO"
   },
+"no_extended": {
+  "name": "Norwegian (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "no-NO",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "pl_base": {
     "name": "Polish (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "pl-PL"
   },
+"pl_extended": {
+  "name": "Polish (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "pl-PL",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "pt_base": {
     "name": "Portuguese (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "pt-PT"
   },
+"pt_extended": {
+  "name": "Portuguese (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "pt-PT",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "ru_base": {
     "name": "Russian (Basic)",
     "shortDescription": "Common words • lightweight",
     "languageTag": "ru-RU"
   },
+"ru_extended": {
+  "name": "Russian (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "ru-RU",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "sv_base": {
     "name": "Swedish (Basic)",
     "shortDescription": "Common words • lightweight",
@@ -84,6 +161,13 @@
     "shortDescription": "Common words • lightweight",
     "languageTag": "uk-UA"
   },
+"uk_extended": {
+  "name": "Ukrainian (Extended)",
+  "shortDescription": "100,000 words • extended vocabulary",
+  "languageTag": "uk-UA",
+  "variant": "extended",
+  "wordCount": 100000
+},
   "vi_base": {
     "name": "Vietnamese",
     "shortDescription": "Common words • lightweight",

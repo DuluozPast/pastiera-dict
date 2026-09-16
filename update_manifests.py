@@ -218,6 +218,13 @@ def update_manifest(
                 item["name"] = metadata.get("name", "")
                 item["shortDescription"] = metadata.get("shortDescription", "")
                 item["languageTag"] = metadata.get("languageTag", "")
+
+                # Optional dictionary metadata used by newer Pastiera versions.
+                # Basic dictionaries remain compatible when these fields are absent.
+                if "variant" in metadata:
+                    item["variant"] = metadata["variant"]
+                if "wordCount" in metadata:
+                    item["wordCount"] = metadata["wordCount"]
             else:
                 # Fallback: derive readable name from ID (only if not already set)
                 if "name" not in item or not item.get("name"):
