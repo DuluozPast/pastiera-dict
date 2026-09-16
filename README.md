@@ -55,6 +55,51 @@ frequency lists:
   from `tur_news_2023_1M.tar.gz`
   (`abfae1f81bb7222c984afb40a06cc8d0e54376d43ea3f9b35e88412863f0b68e`)
 
+### Extended dictionaries
+
+The Extended dictionary assets preserve all entries from the corresponding
+Pastiera Basic dictionary and add frequency-ranked entries from the Leipzig
+Corpora Collection until reaching 100,000 entries.
+
+The following Leipzig corpora were used:
+
+- `da_extended.dict`: `dan_news_2021_1M/dan_news_2021_1M-words.txt`
+  from `dan_news_2021_1M.tar.gz`
+  (`9d778504aab44fef53df07d99bb6c6b773914439fc2410bd277cc78c9784c32f`)
+- `de_extended.dict`: `deu_news_2023_1M/deu_news_2023_1M-words.txt`
+  from `deu_news_2023_1M.tar.gz`
+  (`392065f34be70e3612d6ef6b3edc6687b026524e57e00eef47f0528456deb1ba`)
+- `en_extended.dict`: `eng_news_2023_1M/eng_news_2023_1M-words.txt`
+  from `eng_news_2023_1M.tar.gz`
+  (`c8a5a5e72897aa5e367b0319c1884831c02aaf29bf81342de31ca1b1cc8f3e4c`)
+- `es_extended.dict`: `spa_news_2023_1M/spa_news_2023_1M-words.txt`
+  from `spa_news_2023_1M.tar.gz`
+  (`6a720452204673e44e16e129c49a9815291b6664e1585763b25adcf5c1d8b25b`)
+- `fr_extended.dict`: `fra_news_2023_1M/fra_news_2023_1M-words.txt`
+  from `fra_news_2023_1M.tar.gz`
+  (`14b8812f80ebf91812bf9334feae2b53d101b9507d0e68bd11d30dd56861aa8f`)
+- `it_extended.dict`: `ita_news_2023_1M/ita_news_2023_1M-words.txt`
+  from `ita_news_2023_1M.tar.gz`
+  (`208ef099ee0ddbbaec7e69649b1ad76ebc2f0bd073c487952783e690f973cc3e`)
+- `nl_extended.dict`: `nld_news_2023_1M/nld_news_2023_1M-words.txt`
+  from `nld_news_2023_1M.tar.gz`
+  (`919c077b4cf64cd9969c95e0d8d36576cdcde5cbc297e62a42db8ff0c5a27030`)
+- `no_extended.dict`: `nor_news_2023_300K/nor_news_2023_300K-words.txt`
+  from `nor_news_2023_300K.tar.gz`
+  (`d6c8c522b0a71350ed3f7a62e8df9f7081e7e96871086c891785789899313a6d`)
+- `pl_extended.dict`: `pol_news_2023_1M/pol_news_2023_1M-words.txt`
+  from `pol_news_2023_1M.tar.gz`
+  (`b21b8a91e3b4499f1c9150eec98772afbdf400ac9e231ca6891c335cedf97419`)
+- `pt_extended.dict`: `por_news_2023_1M/por_news_2023_1M-words.txt`
+  from `por_news_2023_1M.tar.gz`
+  (`aed65cdbbfa66521c1ba12fe6d6fe66dda820940c6f537d1d7a39fd0d2880573`)
+- `ru_extended.dict`: `rus_news_2023_1M/rus_news_2023_1M-words.txt`
+  from `rus_news_2023_1M.tar.gz`
+  (`9e09e5298f4a2a2dffed14d00478bbe61f02e53647986150879520c877e8f76d`)
+- `uk_extended.dict`: `ukr_news_2023_1M/ukr_news_2023_1M-words.txt`
+  from `ukr_news_2023_1M.tar.gz`
+  (`0901bff8b3fdb3a8c657137754b4214b8ea6f241572d3ff9b2ae718487412383`)
+
 The Greek dictionary asset (`el_base.dict`) is built from the top 50,000
 frequency-ranked, letter-only entries in the eellak GSOC 2019 Greek spelling
 dictionary with frequencies (`data/spell_dict_with_freq.dic`).
